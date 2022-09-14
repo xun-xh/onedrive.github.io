@@ -11,7 +11,6 @@ comments: false
 - 最新稳定版：[点我下载](https://download.kstore.space/download/3190/latest/FFXIVayfz-Setup.exe)
 
 
-
 ------------
 
 ### **公测版**
