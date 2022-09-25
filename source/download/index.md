@@ -8,7 +8,8 @@ comments: false
 ### **稳定版**
 > 更新频率低、性能稳定、极少的漏洞、免费试用，**适合大多数用户**
 
-- 最新稳定版：[点我下载](https://download.kstore.space/download/3190/latest/FFXIVayfz-Setup.exe)
+- 下载地址1：[点我下载](https://download.kstore.space/download/3190/latest/FFXIVayfz-Setup.exe)
+- 下载地址2：[点我下载](https://cn.kstore.space/download/3190/latest/FFXIVayfz-Setup.exe)
 
 
 ------------
@@ -16,7 +17,8 @@ comments: false
 ### **公测版**
 > 更新频率高、新功能更多、较少的漏洞、免费试用，**适合希望尝鲜的用户**
 
-- 最新测试版：[点我下载](https://download.kstore.space/download/3190/beta/FFXIVayfz-Setup.exe)
+- 下载地址1：[点我下载](https://download.kstore.space/download/3190/beta/FFXIVayfz-Setup.exe)
+- 下载地址2：[点我下载](https://cn.kstore.space/download/3190/beta/FFXIVayfz-Setup.exe)
 
 ------------
 
