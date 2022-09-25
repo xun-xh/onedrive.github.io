@@ -17,28 +17,6 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>常见问题FAQ</title>
-    <link href="https://www.xunxun.cloud/2022/09/14/FAQ/"/>
-    <id>https://www.xunxun.cloud/2022/09/14/FAQ/</id>
-    <published>2022-09-14T15:31:17.579Z</published>
-    <updated>2022-09-14T15:31:17.579Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况"><a href="#此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况" class="headerlink" title="此页面记录了一些经常遇到的问题, 按Ctrl+F快速查找是否有相似情况"></a>此页面记录了一些经常遇到的问题, 按<kbd>Ctrl+F</kbd>快速查找是否有相似情况</h2><h4 id="1-无法启动此程序"><a href="#1-无法启动此程序" class="headerlink" title="1.无法启动此程序"></a>1.无法启动此程序</h4><blockquote><p><img src="https://s1.328888.xyz/2022/08/19/B6ygj.png"></p><p>此情况是由于计算机系统版本过低导致的，微软已不再更新windows10以下版本的系统，因此低于win10的系统版本无法正常使用。 </p><p><strong>解决办法：</strong></p><ul><li>①升级到win10以上 </li><li>②安装vc2015运行库, <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=48145" target="_blank" rel="noopener">点我下载</a></li></ul></blockquote><h4 id="2-连接失败-x2F-无互联网连接-x2F-连接服务器失败"><a href="#2-连接失败-x2F-无互联网连接-x2F-连接服务器失败" class="headerlink" title="2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败"></a>2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败</h4><blockquote><p><strong>解决办法：</strong></p><ul><li>①尝试下载重装</li><li>②可能由于服务器维护等原因，换个时间再试</li></ul></blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况&quot;&gt;&lt;a href=&quot;#此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况&quot; class=&quot;headerlink&quot; title=&quot;此页面记录了一些经常遇到的问题, 按Ctrl+F</summary>
-      
-    
-    
-    
-    <category term="help" scheme="https://www.xunxun.cloud/categories/help/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>微信提醒开启方法</title>
     <link href="https://www.xunxun.cloud/2022/09/14/miao/"/>
     <id>https://www.xunxun.cloud/2022/09/14/miao/</id>
@@ -51,6 +29,28 @@
       
       
     <summary type="html">&lt;h4 id=&quot;1-微信扫描二维码并关注&quot;&gt;&lt;a href=&quot;#1-微信扫描二维码并关注&quot; class=&quot;headerlink&quot; title=&quot;1.微信扫描二维码并关注&quot;&gt;&lt;/a&gt;1.微信扫描二维码并关注&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;https://res.cloudina</summary>
+      
+    
+    
+    
+    <category term="help" scheme="https://www.xunxun.cloud/categories/help/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>常见问题FAQ</title>
+    <link href="https://www.xunxun.cloud/2022/09/14/FAQ/"/>
+    <id>https://www.xunxun.cloud/2022/09/14/FAQ/</id>
+    <published>2022-09-14T15:31:17.579Z</published>
+    <updated>2022-09-14T15:31:17.579Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况"><a href="#此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况" class="headerlink" title="此页面记录了一些经常遇到的问题, 按Ctrl+F快速查找是否有相似情况"></a>此页面记录了一些经常遇到的问题, 按<kbd>Ctrl+F</kbd>快速查找是否有相似情况</h2><h4 id="1-无法启动此程序"><a href="#1-无法启动此程序" class="headerlink" title="1.无法启动此程序"></a>1.无法启动此程序</h4><blockquote><p><img src="https://s1.328888.xyz/2022/08/19/B6ygj.png"></p><p>此情况是由于计算机系统版本过低导致的，微软已不再更新windows10以下版本的系统，因此低于win10的系统版本无法正常使用。 </p><p><strong>解决办法：</strong></p><ul><li>①升级到win10以上 </li><li>②安装vc2015运行库, <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=48145" target="_blank" rel="noopener">点我下载</a></li></ul></blockquote><h4 id="2-连接失败-x2F-无互联网连接-x2F-连接服务器失败"><a href="#2-连接失败-x2F-无互联网连接-x2F-连接服务器失败" class="headerlink" title="2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败"></a>2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败</h4><blockquote><p><strong>解决办法：</strong></p><ul><li>①尝试下载重装</li><li>②可能由于服务器维护等原因，换个时间再试</li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况&quot;&gt;&lt;a href=&quot;#此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况&quot; class=&quot;headerlink&quot; title=&quot;此页面记录了一些经常遇到的问题, 按Ctrl+F</summary>
       
     
     
