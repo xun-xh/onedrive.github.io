@@ -7,12 +7,12 @@ comments: false
 ## 选择需要的插件：
 <table>
 	<tr>
-		<td align="center"><a href="https://item.taobao.com/item.htm?ft=t&id=666650708196"><img src="https://img1.imgtp.com/2022/10/17/0SrtISxj.png">雇员上架压价</a></td>
-		<td align="center"><a href="https://item.taobao.com/item.htm?ft=t&id=688000325453"><img src="https://img1.imgtp.com/2022/10/17/U60tK10s.png">自动生产</a></td>
+		<td align="center"><a href="https://item.taobao.com/item.htm?ft=t&id=666650708196"><img src="https://img1.imgtp.com/2022/11/03/Uaifom0Y.png">雇员上架压价</a></td>
+		<td align="center"><a href="https://item.taobao.com/item.htm?ft=t&id=688000325453"><img src="https://img1.imgtp.com/2022/11/03/XnvrwWY5.png">自动生产</a></td>
 	</tr>
 	<tr>
-		<td align="center"><a href="https://item.taobao.com/item.htm?ft=t&id=648809030278"><img src="https://img1.imgtp.com/2022/10/17/WgWk7TJS.png">全自动刷赞</a></td>
-		<td align="center"><a href="https://item.taobao.com/item.htm?ft=t&id=688304051949"><img src="https://img1.imgtp.com/2022/10/17/Jj6DdEe1.png">一键交理符</a></td>
+		<td align="center"><a href="https://item.taobao.com/item.htm?ft=t&id=648809030278"><img src="https://img1.imgtp.com/2022/11/03/cCWOWg47.png">全自动刷赞</a></td>
+		<td align="center"><a href="https://item.taobao.com/item.htm?ft=t&id=688304051949"><img src="https://img1.imgtp.com/2022/11/03/gUOnGJ78.png">一键交理符</a></td>
 	</tr>
 </table>
 
