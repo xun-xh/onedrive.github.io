@@ -3,14 +3,14 @@
   <title>XunXun</title>
   
   
-  <link href="https://www.xunxun.cloud/atom.xml" rel="self"/>
+  <link href="https://www.xun.zone/atom.xml" rel="self"/>
   
-  <link href="https://www.xunxun.cloud/"/>
+  <link href="https://www.xun.zone/"/>
   <updated>2022-12-17T05:02:15.625Z</updated>
-  <id>https://www.xunxun.cloud/</id>
+  <id>https://www.xun.zone/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>XunXun</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>常见问题FAQ</title>
-    <link href="https://www.xunxun.cloud/help/FAQ/"/>
-    <id>https://www.xunxun.cloud/help/FAQ/</id>
+    <link href="https://www.xun.zone/help/FAQ/"/>
+    <id>https://www.xun.zone/help/FAQ/</id>
     <published>2022-09-14T15:31:17.579Z</published>
     <updated>2022-12-17T05:02:15.625Z</updated>
     
@@ -33,15 +33,15 @@
     
     
     
-    <category term="help" scheme="https://www.xunxun.cloud/categories/help/"/>
+    <category term="help" scheme="https://www.xun.zone/categories/help/"/>
     
     
   </entry>
   
   <entry>
     <title>微信提醒开启方法</title>
-    <link href="https://www.xunxun.cloud/help/miao/"/>
-    <id>https://www.xunxun.cloud/help/miao/</id>
+    <link href="https://www.xun.zone/help/miao/"/>
+    <id>https://www.xun.zone/help/miao/</id>
     <published>2022-09-14T15:31:17.579Z</published>
     <updated>2022-09-14T15:31:17.579Z</updated>
     
@@ -55,15 +55,15 @@
     
     
     
-    <category term="help" scheme="https://www.xunxun.cloud/categories/help/"/>
+    <category term="help" scheme="https://www.xun.zone/categories/help/"/>
     
     
   </entry>
   
   <entry>
     <title>人工服务</title>
-    <link href="https://www.xunxun.cloud/help/Customer-Service/"/>
-    <id>https://www.xunxun.cloud/help/Customer-Service/</id>
+    <link href="https://www.xun.zone/help/Customer-Service/"/>
+    <id>https://www.xun.zone/help/Customer-Service/</id>
     <published>2022-09-14T15:31:17.578Z</published>
     <updated>2022-09-14T15:31:17.578Z</updated>
     
@@ -80,15 +80,15 @@
     
     
     
-    <category term="help" scheme="https://www.xunxun.cloud/categories/help/"/>
+    <category term="help" scheme="https://www.xun.zone/categories/help/"/>
     
     
   </entry>
   
   <entry>
     <title>游戏内设置图文教程</title>
-    <link href="https://www.xunxun.cloud/help/gameopt/"/>
-    <id>https://www.xunxun.cloud/help/gameopt/</id>
+    <link href="https://www.xun.zone/help/gameopt/"/>
+    <id>https://www.xun.zone/help/gameopt/</id>
     <published>2022-08-06T11:09:42.000Z</published>
     <updated>2022-12-17T05:02:15.610Z</updated>
     
@@ -102,7 +102,7 @@
     
     
     
-    <category term="help" scheme="https://www.xunxun.cloud/categories/help/"/>
+    <category term="help" scheme="https://www.xun.zone/categories/help/"/>
     
     
   </entry>
