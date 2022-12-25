@@ -6,7 +6,7 @@
   <link href="https://www.xun.zone/atom.xml" rel="self"/>
   
   <link href="https://www.xun.zone/"/>
-  <updated>2022-12-17T05:02:15.625Z</updated>
+  <updated>2022-09-14T15:31:17.579Z</updated>
   <id>https://www.xun.zone/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>常见问题FAQ</title>
-    <link href="https://www.xun.zone/help/FAQ/"/>
-    <id>https://www.xun.zone/help/FAQ/</id>
-    <published>2022-09-14T15:31:17.579Z</published>
-    <updated>2022-12-17T05:02:15.625Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况"><a href="#此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况" class="headerlink" title="此页面记录了一些经常遇到的问题, 按Ctrl+F快速查找是否有相似情况"></a>此页面记录了一些经常遇到的问题, 按<code>Ctrl+F</code>快速查找是否有相似情况</h2><h4 id="1-无法启动此程序"><a href="#1-无法启动此程序" class="headerlink" title="1.无法启动此程序"></a>1.无法启动此程序</h4><blockquote><p><img src="https://s1.328888.xyz/2022/08/19/B6ygj.png"></p><p>此情况是由于计算机系统版本过低导致的，微软已不再更新windows10以下版本的系统，因此低于win10的系统版本无法正常使用。 </p><p><strong>解决办法：</strong></p><ul><li>①升级到win10以上 </li><li>②安装vc2015运行库, <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=48145" target="_blank" rel="noopener">点我下载</a></li></ul></blockquote><h4 id="2-连接失败-x2F-无互联网连接-x2F-连接服务器失败"><a href="#2-连接失败-x2F-无互联网连接-x2F-连接服务器失败" class="headerlink" title="2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败"></a>2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败</h4><blockquote><p><strong>解决办法：</strong></p><ul><li>①尝试下载重装</li><li>②可能由于服务器维护等原因，换个时间再试</li></ul></blockquote><h4 id="3-如何快速切换稳定版-x2F-公测版"><a href="#3-如何快速切换稳定版-x2F-公测版" class="headerlink" title="3.如何快速切换稳定版&#x2F;公测版"></a>3.如何快速切换稳定版&#x2F;公测版</h4><blockquote><p><strong>解决办法：</strong></p><ul><li>①找到插件安装的文件夹内的<code>command.bat</code>文件，双击运行</li><li>②输入<code>beta</code>为切换到公测版，输入<code>latest</code>为切换到稳定版</li><li>**注意:按此方法切换后在某些情况下会打不开，届时仍需要重新安装</li></ul></blockquote>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况&quot;&gt;&lt;a href=&quot;#此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况&quot; class=&quot;headerlink&quot; title=&quot;此页面记录了一些经常遇到的问题, 按Ctrl+F</summary>
-      
-    
-    
-    
-    <category term="help" scheme="https://www.xun.zone/categories/help/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>微信提醒开启方法</title>
@@ -51,6 +29,28 @@
       
       
     <summary type="html">&lt;h4 id=&quot;1-微信扫描二维码并关注&quot;&gt;&lt;a href=&quot;#1-微信扫描二维码并关注&quot; class=&quot;headerlink&quot; title=&quot;1.微信扫描二维码并关注&quot;&gt;&lt;/a&gt;1.微信扫描二维码并关注&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;https://res.cloudina</summary>
+      
+    
+    
+    
+    <category term="help" scheme="https://www.xun.zone/categories/help/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>常见问题FAQ</title>
+    <link href="https://www.xun.zone/help/FAQ/"/>
+    <id>https://www.xun.zone/help/FAQ/</id>
+    <published>2022-09-14T15:31:17.579Z</published>
+    <updated>2022-12-17T05:02:15.625Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况"><a href="#此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况" class="headerlink" title="此页面记录了一些经常遇到的问题, 按Ctrl+F快速查找是否有相似情况"></a>此页面记录了一些经常遇到的问题, 按<code>Ctrl+F</code>快速查找是否有相似情况</h2><h4 id="1-无法启动此程序"><a href="#1-无法启动此程序" class="headerlink" title="1.无法启动此程序"></a>1.无法启动此程序</h4><blockquote><p><img src="https://s1.328888.xyz/2022/08/19/B6ygj.png"></p><p>此情况是由于计算机系统版本过低导致的，微软已不再更新windows10以下版本的系统，因此低于win10的系统版本无法正常使用。 </p><p><strong>解决办法：</strong></p><ul><li>①升级到win10以上 </li><li>②安装vc2015运行库, <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=48145" target="_blank" rel="noopener">点我下载</a></li></ul></blockquote><h4 id="2-连接失败-x2F-无互联网连接-x2F-连接服务器失败"><a href="#2-连接失败-x2F-无互联网连接-x2F-连接服务器失败" class="headerlink" title="2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败"></a>2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败</h4><blockquote><p><strong>解决办法：</strong></p><ul><li>①尝试下载重装</li><li>②可能由于服务器维护等原因，换个时间再试</li></ul></blockquote><h4 id="3-如何快速切换稳定版-x2F-公测版"><a href="#3-如何快速切换稳定版-x2F-公测版" class="headerlink" title="3.如何快速切换稳定版&#x2F;公测版"></a>3.如何快速切换稳定版&#x2F;公测版</h4><blockquote><p><strong>解决办法：</strong></p><ul><li>①找到插件安装的文件夹内的<code>command.bat</code>文件，双击运行</li><li>②输入<code>beta</code>为切换到公测版，输入<code>latest</code>为切换到稳定版</li><li>**注意:按此方法切换后在某些情况下会打不开，届时仍需要重新安装</li></ul></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况&quot;&gt;&lt;a href=&quot;#此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况&quot; class=&quot;headerlink&quot; title=&quot;此页面记录了一些经常遇到的问题, 按Ctrl+F</summary>
       
     
     
