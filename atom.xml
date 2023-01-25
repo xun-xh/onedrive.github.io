@@ -6,7 +6,7 @@
   <link href="https://www.xun.zone/atom.xml" rel="self"/>
   
   <link href="https://www.xun.zone/"/>
-  <updated>2022-12-17T05:02:15.625Z</updated>
+  <updated>2023-01-25T13:39:17.732Z</updated>
   <id>https://www.xun.zone/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://www.xun.zone/uncategorized/test/"/>
+    <id>https://www.xun.zone/uncategorized/test/</id>
+    <published>2023-01-25T13:38:28.209Z</published>
+    <updated>2023-01-25T13:39:17.732Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row">    <embed src="/resume.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;/resume.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+	&lt;/div&gt;
+
+
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>常见问题FAQ</title>
