@@ -6,7 +6,7 @@
   <link href="https://www.xun.zone/atom.xml" rel="self"/>
   
   <link href="https://www.xun.zone/"/>
-  <updated>2022-12-17T05:02:15.625Z</updated>
+  <updated>2022-12-17T05:02:15.000Z</updated>
   <id>https://www.xun.zone/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.xun.zone/help/FAQ/"/>
     <id>https://www.xun.zone/help/FAQ/</id>
     <published>2022-09-14T15:31:17.579Z</published>
-    <updated>2022-12-17T05:02:15.625Z</updated>
+    <updated>2022-12-17T05:02:15.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况"><a href="#此页面记录了一些经常遇到的问题-按Ctrl-F快速查找是否有相似情况" class="headerlink" title="此页面记录了一些经常遇到的问题, 按Ctrl+F快速查找是否有相似情况"></a>此页面记录了一些经常遇到的问题, 按<code>Ctrl+F</code>快速查找是否有相似情况</h2><h4 id="1-无法启动此程序"><a href="#1-无法启动此程序" class="headerlink" title="1.无法启动此程序"></a>1.无法启动此程序</h4><blockquote><p><img src="https://s1.328888.xyz/2022/08/19/B6ygj.png"></p><p>此情况是由于计算机系统版本过低导致的，微软已不再更新windows10以下版本的系统，因此低于win10的系统版本无法正常使用。 </p><p><strong>解决办法：</strong></p><ul><li>①升级到win10以上 </li><li>②安装vc2015运行库, <a href="https://www.microsoft.com/zh-CN/download/details.aspx?id=48145" target="_blank" rel="noopener">点我下载</a></li></ul></blockquote><h4 id="2-连接失败-x2F-无互联网连接-x2F-连接服务器失败"><a href="#2-连接失败-x2F-无互联网连接-x2F-连接服务器失败" class="headerlink" title="2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败"></a>2.连接失败&#x2F;无互联网连接&#x2F;连接服务器失败</h4><blockquote><p><strong>解决办法：</strong></p><ul><li>①尝试下载重装</li><li>②可能由于服务器维护等原因，换个时间再试</li></ul></blockquote><h4 id="3-如何快速切换稳定版-x2F-公测版"><a href="#3-如何快速切换稳定版-x2F-公测版" class="headerlink" title="3.如何快速切换稳定版&#x2F;公测版"></a>3.如何快速切换稳定版&#x2F;公测版</h4><blockquote><p><strong>解决办法：</strong></p><ul><li>①找到插件安装的文件夹内的<code>command.bat</code>文件，双击运行</li><li>②输入<code>beta</code>为切换到公测版，输入<code>latest</code>为切换到稳定版</li><li>**注意:按此方法切换后在某些情况下会打不开，届时仍需要重新安装</li></ul></blockquote>]]></content>
     
@@ -43,7 +43,7 @@
     <link href="https://www.xun.zone/help/miao/"/>
     <id>https://www.xun.zone/help/miao/</id>
     <published>2022-09-14T15:31:17.579Z</published>
-    <updated>2022-09-14T15:31:17.579Z</updated>
+    <updated>2022-09-14T15:31:17.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="1-微信扫描二维码并关注"><a href="#1-微信扫描二维码并关注" class="headerlink" title="1.微信扫描二维码并关注"></a>1.微信扫描二维码并关注</h4><p><img src="https://res.cloudinary.com/dqccmigqq/image/upload/v1659780923/github/miao_qr_acf4qn.jpg" alt="微信扫描二维码"></p><h4 id="2-向微信公众号后台发送：FFXIV辅助（第一次关注需要先注册账号，注册后再次发送）"><a href="#2-向微信公众号后台发送：FFXIV辅助（第一次关注需要先注册账号，注册后再次发送）" class="headerlink" title="2.向微信公众号后台发送：FFXIV辅助（第一次关注需要先注册账号，注册后再次发送）"></a>2.向微信公众号后台发送：FFXIV辅助（第一次关注需要先注册账号，注册后再次发送）</h4><p><img src="https://res.cloudinary.com/dqccmigqq/image/upload/v1659796765/github/sendPassword_wqsv7e.jpg" alt="关注并发送FFXIV辅助"></p><h4 id="3-注册好后再次发送：FFXIV辅助，将喵码粘贴到软件中保存即可。"><a href="#3-注册好后再次发送：FFXIV辅助，将喵码粘贴到软件中保存即可。" class="headerlink" title="3.注册好后再次发送：FFXIV辅助，将喵码粘贴到软件中保存即可。"></a>3.注册好后再次发送：FFXIV辅助，将喵码粘贴到软件中保存即可。</h4><p><img src="https://res.cloudinary.com/dqccmigqq/image/upload/v1659780924/github/GotMiaoCode_il7erw.jpg" alt="注册后再次发送"> <img src="https://res.cloudinary.com/dqccmigqq/image/upload/v1659780924/github/PasteToTool_aigca8.png" alt="粘贴并保存"></p><h4 id="4-在软件内点击‘测试一下’，即可收到消息"><a href="#4-在软件内点击‘测试一下’，即可收到消息" class="headerlink" title="4.在软件内点击‘测试一下’，即可收到消息"></a>4.在软件内点击‘测试一下’，即可收到消息</h4><p><img src="https://res.cloudinary.com/dqccmigqq/image/upload/v1659796765/github/Test_r88q7n.jpg" alt="点击测试一下"></p>]]></content>
     
@@ -65,7 +65,7 @@
     <link href="https://www.xun.zone/help/Customer-Service/"/>
     <id>https://www.xun.zone/help/Customer-Service/</id>
     <published>2022-09-14T15:31:17.578Z</published>
-    <updated>2022-09-14T15:31:17.578Z</updated>
+    <updated>2022-09-14T15:31:17.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>QQ：<a href="http://wpa.qq.com/msgrd?v=3&uin=1072870487&site=qq&menu=yes" target="_blank" rel="noopener">点我发起会话</a></p><ul><li>服务时间：全天</li></ul></blockquote>]]></content>
     
@@ -90,7 +90,7 @@
     <link href="https://www.xun.zone/help/gameopt/"/>
     <id>https://www.xun.zone/help/gameopt/</id>
     <published>2022-08-06T11:09:42.000Z</published>
-    <updated>2023-01-31T16:08:25.107Z</updated>
+    <updated>2023-01-31T16:08:25.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="1-游戏界面改为默认：ESC-界面设置-全体恢复初期设置。"><a href="#1-游戏界面改为默认：ESC-界面设置-全体恢复初期设置。" class="headerlink" title="1. 游戏界面改为默认：ESC-界面设置-全体恢复初期设置。"></a>1. 游戏界面改为默认：ESC-界面设置-全体恢复初期设置。</h4><p><img src="https://pic.imgdb.cn/item/63d93a7ee90d1c00985a7b1f.png"> </p><h4 id="2-分辨率调为1280-720：ESC-系统设置-显示设置。"><a href="#2-分辨率调为1280-720：ESC-系统设置-显示设置。" class="headerlink" title="2.  分辨率调为1280*720：ESC-系统设置-显示设置。"></a>2.  分辨率调为1280*720：ESC-系统设置-显示设置。</h4><h5 id="2-1-先将显示模式改为全屏模式，再调整能选择的最高分辨率，点击应用；"><a href="#2-1-先将显示模式改为全屏模式，再调整能选择的最高分辨率，点击应用；" class="headerlink" title="2.1 先将显示模式改为全屏模式，再调整能选择的最高分辨率，点击应用；"></a>2.1 先将显示模式改为全屏模式，再调整能选择的最高分辨率，点击应用；</h5><p><img src="https://pic.imgdb.cn/item/63d93b85e90d1c00985ddda3.png"></p><h5 id="2-2-然后选择窗口全屏模式（或普通窗口模式），再将分辨率调整为1280×720。"><a href="#2-2-然后选择窗口全屏模式（或普通窗口模式），再将分辨率调整为1280×720。" class="headerlink" title="2.2  然后选择窗口全屏模式（或普通窗口模式），再将分辨率调整为1280×720。"></a>2.2  然后选择窗口全屏模式（或普通窗口模式），再将分辨率调整为1280×720。</h5><p><img src="https://pic.imgdb.cn/item/63d93b85e90d1c00985ddd5c.png"></p><h4 id="3-界面尺寸-100-伽马修正-50"><a href="#3-界面尺寸-100-伽马修正-50" class="headerlink" title="3.  界面尺寸: 100%, 伽马修正: 50"></a>3.  界面尺寸: 100%, 伽马修正: 50</h4><p><img src="https://pic.imgdb.cn/item/63d93b85e90d1c00985ddd2b.png"></p><h4 id="4-小键盘键位改为默认：ESC-键位设置-恢复初期设置。"><a href="#4-小键盘键位改为默认：ESC-键位设置-恢复初期设置。" class="headerlink" title="4. 小键盘键位改为默认：ESC-键位设置-恢复初期设置。"></a>4. 小键盘键位改为默认：ESC-键位设置-恢复初期设置。</h4><p><img src="https://pic.imgdb.cn/item/63d93b85e90d1c00985ddc46.png"></p><h4 id="5-ESC-角色设置-物品设置-雇员-物品栏显示类型-标准。"><a href="#5-ESC-角色设置-物品设置-雇员-物品栏显示类型-标准。" class="headerlink" title="5.  ESC-角色设置-物品设置-(雇员)物品栏显示类型-标准。"></a>5.  ESC-角色设置-物品设置-(雇员)物品栏显示类型-标准。</h4><p><img src="https://pic.imgdb.cn/item/63d93b85e90d1c00985dddff.png"></p><h4 id="6-ESC-角色设置-界面设置-全体-道具及技能的详情随鼠标位置显示-固定（坐标反转）。"><a href="#6-ESC-角色设置-界面设置-全体-道具及技能的详情随鼠标位置显示-固定（坐标反转）。" class="headerlink" title="6.  ESC-角色设置-界面设置-全体-道具及技能的详情随鼠标位置显示-固定（坐标反转）。"></a>6.  ESC-角色设置-界面设置-全体-道具及技能的详情随鼠标位置显示-固定（坐标反转）。</h4><p><img src="https://pic.imgdb.cn/item/63d93cefe90d1c0098629619.png"></p>]]></content>
     
